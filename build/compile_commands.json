@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Roman/Desktop/Macroner/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Macroner.dir/includes_CXX.rsp -g -o CMakeFiles\\Macroner.dir\\src\\engine.cpp.obj -c C:\\Users\\Roman\\Desktop\\Macroner\\src\\engine.cpp",
+  "file": "C:/Users/Roman/Desktop/Macroner/src/engine.cpp"
+},
+{
+  "directory": "C:/Users/Roman/Desktop/Macroner/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Macroner.dir/includes_CXX.rsp -g -o CMakeFiles\\Macroner.dir\\src\\main.cpp.obj -c C:\\Users\\Roman\\Desktop\\Macroner\\src\\main.cpp",
+  "file": "C:/Users/Roman/Desktop/Macroner/src/main.cpp"
+}
+]

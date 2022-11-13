@@ -1,0 +1,3 @@
+C:/Users/Roman/Desktop/Macroner/build/CMakeFiles/Macroner.dir
+C:/Users/Roman/Desktop/Macroner/build/CMakeFiles/edit_cache.dir
+C:/Users/Roman/Desktop/Macroner/build/CMakeFiles/rebuild_cache.dir
